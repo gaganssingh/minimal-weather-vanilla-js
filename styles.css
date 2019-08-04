@@ -1,0 +1,9 @@
+body {
+    font-family: 'Blinker', sans-serif;
+    background: #352F5B;
+    letter-spacing: 0.4em;
+}
+
+.container {
+    max-width: 400px;
+}
